@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tutorials Marking App</string>
+    <string name="enterhintID">Enter student ID</string>
+    <string name="enterhintName">Enter student name</string>
+    <string name="entScoreHint">Enter score out of 100</string>
+    <string name="searchHint">Search key words</string>
+
+    <string-array name="weeks">
+        <item>Week 1</item>
+        <item>Week 2</item>
+        <item>Week 3</item>
+        <item>Week 4</item>
+        <item>Week 5</item>
+        <item>Week 6</item>
+        <item>Week 7</item>
+        <item>Week 8</item>
+        <item>Week 9</item>
+        <item>Week 10</item>
+    </string-array>
+
+</resources>
